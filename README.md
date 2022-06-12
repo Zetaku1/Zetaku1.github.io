@@ -1,4 +1,4 @@
-# Zetaku1.github.io
+# Jean Paul Balazs Thenot
 
 <object data="https://Zetaku1.github.io/cv_JP.pdf" style="margin:0 auto;text-align:center" type="application/pdf" width="1125px" height="1500px">
     <embed src="https://Zetaku1.github.io/cv_JP.pdf">
